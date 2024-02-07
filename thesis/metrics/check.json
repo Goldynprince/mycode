@@ -1,0 +1,36 @@
+{
+    "pmid": "16960863",
+    "paper": "Burn2006_PMID16960863_1.pdf",
+    "text": "Effects of rivastigmine in patients with and without visual hallucinations in dementia associated with Parkinson’s disease.  We aimed to determine prospectively whether rivastigmine, an inhibitor of acetylcholinesterase and butyrylcholinesterase, provided benefits in patients with and without visual hallucinations in a population with dementia associated with Parkinson"s disease (PDD). This was a 24-week double-blind placebo-controlled study. Primary efficacy measures were the Alzheimer"s Disease Assessment Scale cognitive subscale (ADAS-cog) and Alzheimer"s Disease Cooperative Study-Clinician"s Global Impression of Change (ADCS-CGIC). Secondary efficacy measures included activities of daily living, behavioral symptoms, and executive and attentional functions. Patients were stratified according to the presence of visual hallucinations at baseline. The study included 188 visual hallucinators (118 on rivastigmine, 70 on placebo) and 348 nonvisual hallucinators (239 on rivastigmine, 109 on placebo). Rivastigmine provided benefits in both visual hallucinators and nonvisual hallucinators. Absolute responses to rivastigmine on the ADAS-cog were comparable over 6 months, although rivastigmine-placebo differences tended to be larger in visual hallucinators (4.27; P = 0.002) than in nonhallucinators (2.09; P = 0.015). On the ADCS-CGIC, differences between rivastigmine and placebo were 0.5 in visual hallucinators (P = 0.030) and 0.3 in nonhallucinators (P = 0.111). Rivastigmine provided benefits on all secondary efficacy measures, and placebo declines and treatment differences were more marked in visual hallucinators. Adverse events were reported more frequently by rivastigmine-treated patients, although this difference was less marked in visual hallucinators. Visual hallucinations appear to predict more rapid decline and possibly greater therapeutic benefit from rivastigmine treatment in PDD.",
+    "context": {
+        "design_1": "10 to 24. Patients were randomized to rivastigmine or",
+        "design_2": "Parkinson's disease (PDD). This was a 24-week double-blind placebo-controlled study. Primary efficacy measures were the",
+        "group_A_1": "Visual hallucinators",
+        "group_A_2": "Rivastigmine",
+        "group_C_1": "Nonhallucinators",
+        "group_C_2": "Rivastigmine",
+        "N_A": "study included 188 visual hallucinators (118 on rivastigmine, 70 on placebo)",
+        "N_B": "188 visual hallucinators (118 on rivastigmine, 70 on placebo) and 348 nonvisual",
+        "N_C": "placebo) and 348 nonvisual hallucinators (239 on rivastigmine, 109 on placebo).",
+        "N_D": "348 nonvisual hallucinators (239 on rivastigmine, 109 on placebo). Rivastigmine provided benefits",
+        "subjects": "acetylcholinesterase and butyrylcholinesterase, provided benefits in patients with and without visual hallucinations in a population with dementia"
+    },
+    "annotations": {
+        "Sticky Note": "",
+        "condition": "dementia associated with Parkinson’s disease (PDD)",
+        "design_1": "randomized",
+        "design_2": "24-week double-blind placebo-controlled study",
+        "group_A_1": "Visual hallucinators",
+        "group_A_2": "Rivastigmine",
+        "group_B_1": "visual hallucinators",
+        "group_B_2": "Placebo",
+        "group_C_1": "Nonhallucinators",
+        "group_C_2": "Rivastigmine",
+        "group_D_1": "nonhallucinators",
+        "group_D_2": "Placebo",
+        "N_A": "118",
+        "N_B": "70",
+        "N_C": "239",
+        "N_D": "109",
+        "subjects": "patients with and without visual hallucinations"
+    }
